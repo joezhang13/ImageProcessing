@@ -12,14 +12,6 @@ using namespace std;
 #include "input.h"
 #include "chooseColor.h"
 
-//Name: Zhou Zhang
-//Date: 11/04/2019
-//Purpose: This project provides the users with the functions of
-//reading images from PPM files, writing images to PPM files, 
-//annotating images with rectangles and file-specified patterns,
-//as well as inserting other images. It also includes the error
-//handling for stream input/output
-
 //Changes made for re-submission:
 //1. changed the name of the constant header file: Constants.h -> constants.h
 //2. added the functionality to reject the ppm files which exceed 
